@@ -14,7 +14,6 @@ def gradient(start, end, steps):
     ret.append(tolist(color))
   return ret
   
-  
 
 
 debug = False
