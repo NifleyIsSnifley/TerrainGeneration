@@ -13,8 +13,6 @@ def gradient(start, end, steps):
   for color in grad:
     ret.append(tolist(color))
   return ret
-  
-
 
 debug = False
 genType = input('Generation type: ')
